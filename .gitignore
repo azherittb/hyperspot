@@ -50,7 +50,7 @@ Thumbs.db
 *.rej
 
 # Drupal specific stuff
-files/
+#files/
 !files/graph_cache/*
 files-private/
 settings.php
